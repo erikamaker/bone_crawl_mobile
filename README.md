@@ -1,16 +1,5 @@
 # bone_crawl
 
-A new Flutter project.
+A bare-bones proof of concept for Bone Crawl reimagined as a mobile game. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/erikamaker/bone_crawl_mobile/assets/118931925/682b1a75-28e7-4059-8863-1f1ca5a79f5b)
